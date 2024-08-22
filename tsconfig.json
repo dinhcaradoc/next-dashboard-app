@@ -20,7 +20,8 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@heroicons/react/*": ["node_modules/@heroicons/react/*"]
     }
   },
   "include": [
